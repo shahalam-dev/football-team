@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "https://www.countryflags.io/ar/flat/64.png",
+    "salary": 62463,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/158023.webp",
+    "transfer_fee": 647512
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "country": "https://www.countryflags.io/pt/flat/64.png",
+    "salary": 66583,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/20801.webp",
+    "transfer_fee": 335383
+  },
+  {
+    "id": 3,
+    "name": "Xavier Chavalerin",
+    "country": "https://www.countryflags.io/fr/flat/64.png",
+    "salary": 68382,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/193683.webp",
+    "transfer_fee": 547827
+  },
+  {
+    "id": 4,
+    "name": "Andres Iniesta",
+    "country": "https://www.countryflags.io/es/flat/64.png",
+    "salary": 25549,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/41.webp",
+    "transfer_fee": 120766
+  },
+  {
+    "id": 5,
+    "name": "Zlatan Ibrahimovic",
+    "country": "https://www.countryflags.io/se/flat/64.png",
+    "salary": 76860,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/41236.webp",
+    "transfer_fee": 391342
+  },
+  {
+    "id": 6,
+    "name": "Radamel Falcao",
+    "country": "https://www.countryflags.io/co/flat/64.png",
+    "salary": 54924,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/167397.webp",
+    "transfer_fee": 474399
+  },
+  {
+    "id": 7,
+    "name": "Georginio Wijnaldum",
+    "country": "https://www.countryflags.io/nl/flat/64.png",
+    "salary": 68877,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/181291.webp",
+    "transfer_fee": 717016
+  },
+  {
+    "id": 8,
+    "name": "Phil Foden",
+    "country": "https://www.countryflags.io/gb/flat/64.png",
+    "salary": 47071,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/237692.webp",
+    "transfer_fee": 609331
+  },
+  {
+    "id": 9,
+    "name": "Rúben Neves",
+    "country": "https://www.countryflags.io/pt/flat/64.png",
+    "salary": 20640,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/224293.webp",
+    "transfer_fee": 590878
+  },
+  {
+    "id": 10,
+    "name": "Eric García",
+    "country": "https://www.countryflags.io/es/flat/64.png",
+    "salary": 78508,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/245037.webp",
+    "transfer_fee": 120158
+  },
+  {
+    "id": 11,
+    "name": "Jude Bellingham",
+    "country": "https://www.countryflags.io/gb/flat/64.png",
+    "salary": 15654,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/252371.webp",
+    "transfer_fee": 122999
+  },
+  {
+    "id": 12,
+    "name": "N'Golo Kanté",
+    "country": "https://www.countryflags.io/fr/flat/64.png",
+    "salary": 23406,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/215914.webp",
+    "transfer_fee": 121866
+  },
+  {
+    "id": 13,
+    "name": "Neymar",
+    "country": "https://www.countryflags.io/br/flat/64.png",
+    "salary": 45734,
+    "img": "https://www.fifaindex.com/static/FIFA19/images/players/10/190871.webp",
+    "transfer_fee": 503305
+  },
+  {
+    "id": 14,
+    "name": "Phil Foden",
+    "country": "https://www.countryflags.io/gb/flat/64.png",
+    "salary": 18325,
+    "img": "https://www.fifaindex.com/static/FIFA19/images/players/10/237692.webp",
+    "transfer_fee": 543292
+  },
+  {
+    "id": 15,
+    "name": "Jan Oblak",
+    "country": "https://www.countryflags.io/sl/flat/64.png",
+    "salary": 29391,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/200389.webp",
+    "transfer_fee": 782729
+  },
+  {
+    "id": 16,
+    "name": "Mohamed Salah",
+    "country": "https://www.countryflags.io/eg/flat/64.png",
+    "salary": 25588,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/209331.webp",
+    "transfer_fee": 637885
+  },
+  {
+    "id": 17,
+    "name": "Mesut Ozil",
+    "country": "https://www.countryflags.io/de/flat/64.png",
+    "salary": 43113,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/176635.webp",
+    "transfer_fee": 683052
+  },
+  {
+    "id": 18,
+    "name": "Manuel Neuer",
+    "country": "https://www.countryflags.io/de/flat/64.png",
+    "salary": 55207,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/167495.webp",
+    "transfer_fee": 786846
+  },
+  {
+    "id": 19,
+    "name": "Alisson",
+    "country": "https://www.countryflags.io/br/flat/64.png",
+    "salary": 69348,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/212831.webp",
+    "transfer_fee": 496463
+  },
+  {
+    "id": 20,
+    "name": "Heung Min Son",
+    "country": "https://www.countryflags.io/kr/flat/64.png",
+    "salary": 41078,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/200104.webp",
+    "transfer_fee": 708258
+  },
+  {
+    "id": 21,
+    "name": "Sergio Ramos",
+    "country": "https://www.countryflags.io/es/flat/64.png",
+    "salary": 35047,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/155862.webp",
+    "transfer_fee": 305491
+  },
+  {
+    "id": 22,
+    "name": "Ederson",
+    "country": "https://www.countryflags.io/br/flat/64.png",
+    "salary": 46945,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/210257.webp",
+    "transfer_fee": 593094
+  },
+  {
+    "id": 23,
+    "name": "Henry Martín",
+    "country": "https://www.countryflags.io/mx/flat/64.png",
+    "salary": 50933,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/224151.webp",
+    "transfer_fee": 560086
+  },
+  {
+    "id": 24,
+    "name": "Sergio Vittor",
+    "country": "https://www.countryflags.io/ar/flat/64.png",
+    "salary": 27551,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/219167.webp",
+    "transfer_fee": 706976
+  },
+  {
+    "id": 25,
+    "name": "Philipp Kühn",
+    "country": "https://www.countryflags.io/de/flat/64.png",
+    "salary": 18090,
+    "img": "https://www.fifaindex.com/static/FIFA21/images/players/10/208719.webp",
+    "transfer_fee": 149718
+  }
+]
